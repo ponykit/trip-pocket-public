@@ -5,8 +5,8 @@
 TripPocket은 한국 여행 정보를 탐색하고, 조건에 맞는 여행 코스와 일정을 더 쉽게 찾을 수 있도록 설계한 서비스입니다.
 여행지 탐색, 코스 추천, 일정 생성, 계산형 도구를 하나의 흐름 안에서 연결하는 것을 목표로 개발했습니다.
 
-- 한국어: https://trip-pocket.itkong.uk/ko/
-- 영어: https://trip-pocket.itkong.uk/en/
+- 한국어: https://trip-pocket.pages.dev/ko/
+- 영어: https://trip-pocket.pages.dev/en/
 
 ---
 
